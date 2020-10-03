@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+		"Kbuild",
+		"make.inc",
+		"amboot"
+	]
+}

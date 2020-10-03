@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"ARM Assembly",
+		"Autotools",
+		"Bitbake Syntax",
+		"CMake",
+		"Devicetree DTS Highlighting",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"DoxyDoc",
+		"EditorConfig",
+		"Generic Config",
+		"Git",
+		"INI",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"Kconfig Syntax Highlight",
+		"LESS",
+		"LinkerScript",
+		"MarkdownPreview",
+		"MIPS Syntax",
+		"nginx",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"Protocol Buffer Syntax",
+		"Puppet",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-flake8",
+		"Swig",
+		"Terraform",
+		"TrailingSpaces",
+		"Twig",
+		"udev rules"
+	]
+}

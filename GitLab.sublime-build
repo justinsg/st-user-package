@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "python3 -c 'import sys, gitlab; r,m = gitlab.Gitlab.from_config().lint(open(sys.argv[1], \"r\").read() if len(sys.argv) > 1 else \"\"); print(\"\\n\".join(m if len(m) else [\"Lint OK\"]));sys.exit(int(not r))' $file",
+	"file_patterns": [".gitlab-ci.yml"],
+	"quiet": true,
+}
